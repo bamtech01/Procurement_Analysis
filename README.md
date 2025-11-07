@@ -45,7 +45,7 @@ Based on this analysis, we recommend the following actions:
 - Based on our cost analysis, we suggest prioritizing cost reduction by evaluating suppliers
   that meet our quality requirements at the most competitive price points.
 
-
+###  
 
 
 
