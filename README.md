@@ -2,52 +2,70 @@
 
 ### Project Overview
 
-Data storytelling and Dashboard visualization in Procurement Analysis for some Hospitals in Nigeria, to reduce equipment cost and supplier performance evaluation,  presenting findings via Power BI dashboards.
+This project focuses on data storytelling and dashboard visualization for procurement activities across selected hospitals in Nigeria. The goal is to analyze procurement patterns, reduce equipment costs, and evaluate supplier performance.
+
+Insights from the analysis are presented through interactive dashboards built with Power BI, enabling stakeholders to make informed procurement decisions.
 
 ### Dashboard
+### Dataset
 
+The primary dataset used in this analysis is a Procurement Dataset containing detailed procurement records from hospitals in Nigeria.
 
+Dataset Characteristics:
+- Rows: 10,001
+- Columns: 12
+- Content: Information related to hospital procurement transactions, suppliers, equipment types, costs, and regional distribution.
 
+### Tools and Technologies
+
+The following tools were used during the analysis process:
+Microsoft Excel – Data cleaning and preprocessing
+Power BI – Data analysis and dashboard visualization
 
 ### Data Sources
 
 The primary dataset used for this analysis is the procurement Dataset, containing detailed information about some hospitals in Nigeria,
 the dataset contains of 10,001 rows and 12 columns.
 
-### Tools
+### Tools and Technologies
 
-- Excel - Data Cleaning
-- PowerBI - Data Analysis and Dashboard visualization.
-  
-### Data Cleaning and Preparation
+The following tools were used during the analysis process:
 
-In the initial data preparation phase, we perform the following tasks:
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+Microsoft Excel – Data cleaning and preprocessing
+Power BI – Data analysis and dashboard visualization  
 
-### Exploratory Data Analysis
+###  Data Cleaning and Preparation
 
-EDA involved exploring procurement data to answer key questions such as:
-- Identify the most cost effect supplier?
-- Regional Cost Strength?
-- Which type of medical equipment are more costlier and why?
+During the initial data preparation stage, the following steps were performed:
 
-### Resulting/Findings
+- Data loading and initial inspection
+- Identification and handling of missing values
+- Data cleaning and formatting to ensure consistency and usability
 
-The analysis results are summerized as follows:
-1. Lagos has the highest procurement cost across all the states.
-2. South West being the most highest region.
-3. MRI Machine is the most expensive equipment.
-4. China has the highest rate of supplier.
+### Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was conducted to uncover insights and answer key procurement-related questions, including:
+
+- Which supplier provides the most cost-effective equipment?
+- Which region has the highest procurement costs?
+- Which types of medical equipment are the most expensive, and what factors contribute to their cost?
+
+### Key Findings
+
+The analysis revealed several important insights:
+
+1. Lagos State recorded the highest procurement costs among all states analyzed.
+2. The South West region accounted for the largest share of total procurement spending.
+3. MRI machines were identified as the most expensive medical equipment.
+4. China had the highest number of suppliers in the dataset.
 
 ### Recommendations
 
-Based on this analysis, we recommend the following actions:
-- Based on our cost analysis, we suggest prioritizing cost reduction by evaluating suppliers
-  that meet our quality requirements at the most competitive price points.
+Based on the findings, the following recommendations are proposed:
 
-###  
+- Prioritize cost reduction strategies by evaluating suppliers that meet quality standards while offering more competitive pricing.
+- Strengthen supplier performance evaluation to identify the most reliable and cost-efficient vendors.
+- Explore alternative suppliers or regional sourcing strategies to reduce procurement costs for high-value equipment such as MRI machines.
 
 
 
